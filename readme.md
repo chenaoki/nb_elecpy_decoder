@@ -1,3 +1,3 @@
-# nb_template
+# nb_elecpy
 
-template repository for jupyter notebook pages.
+Repository for jupyter notebook pages using [chenaoki/elecpy](https://github.com/chenaoki/elecpy)

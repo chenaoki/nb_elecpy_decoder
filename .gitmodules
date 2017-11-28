@@ -1,0 +1,3 @@
+[submodule "elecpy"]
+	path = elecpy
+	url = https://github.com/chenaoki/elecpy

@@ -7,7 +7,7 @@ ARG DEBIAN_FRONTEND=noninteractive
 RUN echo "now building"
 
 RUN apt update && apt install -y \
-  git curl make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev libpng-dev ffmpeg
+  git curl make build-essential libssl-dev zlib1g-dev libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev libncursesw5-dev libpng-dev ffmpeg zsh
 
 WORKDIR /root
 USER root

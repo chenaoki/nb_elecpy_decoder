@@ -24,6 +24,7 @@ RUN pyenv rehash
 
 RUN conda install -c anaconda chainer 
 RUN conda install -y accelerate 
+RUN conda install -c menpo opencv=2.4.11
 
 RUN pip install cupy
 

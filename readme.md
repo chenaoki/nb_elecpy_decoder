@@ -1,3 +1,8 @@
-# nb_elecpy
+# nb_elecpy_decoder
 
-Repository for jupyter notebook pages using [chenaoki/elecpy](https://github.com/chenaoki/elecpy)
+## How to run
+
+Docker image : chenaoki/nb_elecpy
+
+https://github.com/chenaoki/nb_elecpy.git
+
